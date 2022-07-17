@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>favicon</title>
+    <g id="favicon" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <circle id="Oval" fill="#0B0E11" cx="32" cy="32" r="32"></circle>
+        <polygon id="Triangle-Copy-2" stroke="#00FFAB" stroke-width="6.04166667" transform="translate(31.875000, 35.500000) scale(1, -1) translate(-31.875000, -35.500000) " points="31.875 22 48.75 49 15 49"></polygon>
+    </g>
+</svg>
