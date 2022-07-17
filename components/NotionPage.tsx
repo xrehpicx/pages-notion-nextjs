@@ -258,6 +258,7 @@ export const NotionPage: React.FC<types.PageProps> = ({
         css={css`
           position: relative;
           /* overflow-x: hidden; */
+
           background: ${theme.palette.background.default};
           .notion-collection-card-body {
             background: ${theme.palette.background.paper};
@@ -405,6 +406,12 @@ export const NotionPage: React.FC<types.PageProps> = ({
           }
           .notion-aside-table-of-contents-header {
             align-self: flex-start;
+          }
+          .notion-table-of-contents-active-item {
+            color: ${theme.palette.primary.main} !important;
+          }
+          .notion-external-block {
+            border: 1px solid ${theme.palette.divider};
           }
         `}
       >
