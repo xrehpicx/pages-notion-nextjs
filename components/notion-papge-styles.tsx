@@ -27,6 +27,9 @@ export function getNotionStyleOverides(theme: Theme) {
     .notion-gallery-grid {
       border-top: 1px solid ${theme.palette.divider};
     }
+    figure.notion-asset-wrapper-image {
+      flex-direction: row;
+    }
     .notion-asset-wrapper iframe {
       background: ${theme.palette.background.default};
     }

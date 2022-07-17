@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'Pages | Nextjs + Notion Starter',
-  domain: 'raj.cool',
+  domain: 'pages-notion-nextjs.vercel.app',
   author: 'Raj Sharma',
 
   // open graph metadata (optional)
